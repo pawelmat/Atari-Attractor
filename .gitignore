@@ -1,4 +1,4 @@
-atasm-build.json
+#atasm-build.json
 *.atdbg
 *.brk
 *.lab
