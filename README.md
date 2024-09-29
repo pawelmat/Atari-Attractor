@@ -24,8 +24,9 @@ slightly different, but still interesting.
 
 ## Links
 
-[Pouet] (https://www.pouet.net/prod.php?which=97977)
-[Demozoo] (https://demozoo.org/productions/355350/)
+[Pouet](https://www.pouet.net/prod.php?which=97977)
+
+[Demozoo](https://demozoo.org/productions/355350/)
 
 ## Recording
 
