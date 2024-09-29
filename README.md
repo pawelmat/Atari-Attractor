@@ -19,17 +19,14 @@ slightly different, but still interesting.
 
 **Compo:**             Atari XL/XE, Intro 256B
 
-**Place:**             TBD
+**Place:**             2nd
 
 
 ## Links
 
-Pouet:
-TBD
-
-Demozoo:
-TBD
+[Pouet] (https://www.pouet.net/prod.php?which=97977)
+[Demozoo] (https://demozoo.org/productions/355350/)
 
 ## Recording
 
-TBD
+[Youtube](https://youtu.be/QGRiX9pp9E8)
